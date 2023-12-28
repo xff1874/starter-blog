@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Richard Zhang
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+occupation: programmer
+company: Netease cloud music
+email: zwd321081@gmail.com
+twitter: https://twitter.com/HiRichardZhang
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/xff1874
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Richard Zhang is a skilled programmer at Netease Cloud Music. With a fervent enthusiasm for coding and a penchant for innovation, Richard is committed to crafting exceptional digital experiences. You can reach out to Richard via email at zwd321081@gmail.com, connect with him on Twitter at HiRichardZhang, and explore his projects on GitHub at xff1874.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+-- write by chatgpt
